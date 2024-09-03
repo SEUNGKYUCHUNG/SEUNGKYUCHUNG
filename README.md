@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on projects. 
 - 📫 You can reach me here.
 
-## <span style="color: black;" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Languages & Tools</span>
+<h2 onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Languages & Tools</h2>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,mysql,sqlite,docker,dotnet" alt="My Skills">
+</a>
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,java,azure,mysql,sqlite,docker,dotnet)](https://skillicons.dev)
 
