@@ -6,5 +6,5 @@
 - 📫 You can reach me here.
 ## <span style="color: black;" onmouseover="this.style.color='blue'" onmouseout="this.style.color='black'">Languages & Tools</span>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,java,azure,mysql,sqlite,docker,dotnet,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,python,java,azure,mysql,sqlite,docker,dotnet,visualstudio,vscode,pycharm,netbeans)](https://skillicons.dev)
 
