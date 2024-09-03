@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SEUNGKYUCHUNG.
 - 👀 I’m interested in making cool apps.
-- ⭐ Coming soon: "Computaris Astris", "Run+ ", "Photosynthesis", and "The Staff". 
+- ⭐ Coming soon: "Computaris Astris", "Run", "Photosynthesis", and "The Staff". 
 - 🌱 I’m almost done with school. 
 - 💞️ I’m looking forward to collaborating with you. 
 - 📫 You can reach me here.
