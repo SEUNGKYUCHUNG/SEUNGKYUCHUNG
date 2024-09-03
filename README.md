@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @SEUNGKYUCHUNG.
 - 👀 I’m interested in open source.
-- 🌱 I’m currently learning coding.
+- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on projects.
-- 📫 You can reach me here. 
+- 📫 You can reach me here.
+
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
