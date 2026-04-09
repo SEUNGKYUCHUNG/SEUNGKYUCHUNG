@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Seungkyu Chung.
-- 👀 I’m actively engaged in research and development projects including data science applications and app development. I thrive on turning ideas into reality.
-- ⭐ Coming soon: [In-Progress]: Los Angeles Wild Fire Data Science Project", [In-Progress]: "Thales of Miletus", "Computaris Astris", "Run", "Photosynthesis", and "The Staff". 
-- 🌱 I earned my Applications Programming Certificate from UCLA Extension on December 16, 2024. 
+- 👀 I’m actively engaged in research and development projects, including data science applications and app development. I thrive on turning ideas into reality.
+- ⭐ Potential Projects: "Run", "Thales of Miletus", "Computaris Astris", and "Healthcare." 
+- 🌱 Pursuing a Master's in Data Science at Grand Canyon University.  
 - 💞️ I’m looking forward to collaborating with you. 
 - 📫 You can email me at ghsccontact@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/seungkyuchung).
 
@@ -43,6 +43,7 @@
 <img src="https://github.com/seungkyuchung/seungkyuchung/blob/main/images/nasaworldviewlogo.png?raw=true" alt="Google Colab" style="height: 48px;" />
 
 <img src="https://github.com/seungkyuchung/seungkyuchung/blob/main/images/jupyterlogo.png?raw=true" alt="Jupyter" style="height: 48px;" />
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
 
 </p>
 
